@@ -1,0 +1,14 @@
+1
+00:00:01,000 --> 00:00:04,000
+This is a sample SBV subtitle file
+used for testing purposes.
+
+2
+00:00:05,500 --> 00:00:08,200
+SBV files use this timestamp format
+and are commonly used by YouTube.
+
+3
+00:00:10,000 --> 00:00:12,500
+This will be converted to SRT format.
+
